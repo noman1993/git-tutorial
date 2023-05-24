@@ -1,0 +1,5 @@
+console.log('Hello World')
+console.log('45')
+console.log('my favourite number' + 9)
+console.log(9+9)
+console.log('9'+9)
